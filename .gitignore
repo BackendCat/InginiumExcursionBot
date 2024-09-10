@@ -1,0 +1,14 @@
+*.cfg
+
+*.drawio.bkp
+
+venv/
+
+__pycache__/
+*.py[cod]
+
+.idea/
+.vscode/
+
+__pycache__/
+*.py[cod]
